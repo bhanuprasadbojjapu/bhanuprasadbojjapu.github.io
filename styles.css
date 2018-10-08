@@ -1,0 +1,93 @@
+body{
+     background-image:url(img/bg2.jpg);
+	 background-size:cover;
+   }
+           .jumbotron{
+
+		      background-image:url(img/background.jpg);
+			  background-size:cover;
+			  padding:10px;
+			  text-shadow:3px 3px Pink;
+			  color:teal
+		      }
+
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: deeppink;
+      padding: 25px;
+    }
+	#shirdi-tour img,#vijayawada-tour img,#srisailam-tour img,#kollerulake-tour img,#tirumala-tour img{
+	   width:300px;
+	   height:250px;
+	}
+	img:hover{
+	cursor:pointer;
+	 
+	}
+				  #shirdi-tour h2{
+			           background:url("img/shirdi.jpg");
+			           color:white;
+					   text-align:center;
+					   border-radius:50%;
+					   padding:10px;			  
+					   }
+					#vijayawada-tour h2{
+			  			  background:url("img/vijayawada.jpg");
+						  color:white;
+
+					   text-align:center;
+					   border-radius:50%;
+					   padding:10px;			  
+					   
+						  }
+				#srisailam-tour h2{
+ 	         		  background:url("img/srisailam_templ.jpg");
+   			          color:white;
+		
+					   text-align:center;
+					   border-radius:50%;
+					   padding:10px;			  
+					   
+						  }
+				#kollerulake-tour h2{
+			         background:url("img/kolleru4.jpg");
+			         color:white;
+			 
+					   text-align:center;
+					   border-radius:50%;
+					   padding:10px;			  
+					   
+			  }
+			  #tirumala-tour h2{
+			  			  background:url("img/tirumala_templ.jpg");
+						  
+						  color:white;
+					      text-align:center;
+					      border-radius:50%;
+					      padding:10px;			  
+					   
+						  }
+				footer{
+                     background-image:url("img/bg3.jpg");
+					 background-size:cover;
+					 color:teal;
+				}
+				
+   img {
+	 
+	   border-radius:50px;
+	   text-align:center;
+   }
+			  
+		p{
+           text-align:center;
+		}			
+		
+	
+		
